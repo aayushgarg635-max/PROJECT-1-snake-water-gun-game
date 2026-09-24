@@ -1,3 +1,3 @@
-I am learning python fundamentals by coding regularly 
-this is my first projects in programming
-SNAKE WATER GUN GAME
+-I am learning python fundamentals by coding regularly 
+-this is my first projects in programming
+-SNAKE WATER GUN GAME
